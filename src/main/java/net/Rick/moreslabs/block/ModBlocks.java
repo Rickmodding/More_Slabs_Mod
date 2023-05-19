@@ -19,7 +19,7 @@ public class ModBlocks {
             DeferredRegister.create(ForgeRegistries.BLOCKS, MoreSlabs.MOD_ID);
 
     public static final RegistryObject<Block> DIRT_SLAB = registerBlock("dirt_slab",
-            () -> new SlabBlock(BlockBehaviour.Properties.of(Material.DIRT).requiresCorrectToolForDrops()
+            () -> new SlabBlock(BlockBehaviour.Properties.of(Material.DIRT)
                     .strength(0.5f).sound(SoundType.GRAVEL)));
 
 
