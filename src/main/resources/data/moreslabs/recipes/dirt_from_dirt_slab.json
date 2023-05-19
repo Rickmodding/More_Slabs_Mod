@@ -3,7 +3,7 @@
   "category": "building",
   "key": {
     "#": {
-      "tag": "moreslabs:dirt_slab"
+      "item": "moreslabs:dirt_slab"
     }
   },
   "pattern": [
