@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "moreslabs:block/dirt",
+    "side": "moreslabs:block/dirt",
+    "top": "moreslabs:block/dirt"
+  }
+}

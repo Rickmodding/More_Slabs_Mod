@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "moreslabs:block/dirt_slab"
+    },
+    "type=double": {
+      "model": "moreslabs:block/dirt_block"
+    },
+    "type=top": {
+      "model": "moreslabs:block/dirt_slab_top"
+    }
+  }
+}
